@@ -5,6 +5,7 @@ Bienvenido a mi perfil de GitHub. Soy Junior Data Analyst apasionada por los dat
 
 
 
+
 🛠️ Procesamiento de datos en tiempo real
 
 📊 ETL/ELT
@@ -14,6 +15,7 @@ Bienvenido a mi perfil de GitHub. Soy Junior Data Analyst apasionada por los dat
 🚀 Tecnologías que domino:
 
 Python, SQL, ETL, Tableau y Power BI.  
+
 
 
 🌟 Sobre mí:
@@ -27,6 +29,7 @@ Python, SQL, ETL, Tableau y Power BI.
 🎓 Estudié master Data Anlytic, donde adquirí conocimientos de:
 
 
+
     · Programación con Pyton
     · Bases de Datos y SQL
     · Matemáticas y estadística
@@ -37,8 +40,13 @@ Python, SQL, ETL, Tableau y Power BI.
     · Microsoft Power BI Dat5a Analitycs
     · Soft Skills
 
+
+
 🎨 Proyecto destacado:
+
 ✨ Proyecto Jupiter Mercadona
+
+
 
 📫 Contáctame: 
     - LINKEDIN: www.linkedin.com/in/maríalucíaanalystics
