@@ -17,10 +17,15 @@ Python, SQL, ETL, Tableau y Power BI.
 
 
 🌟 Sobre mí:
+
 🎯 Actualmente en busca de un nuevo desafío que me permita seguir creciendo en el mundo de los datos.
+
 🌍 Publicando en linkedin, logros, novedades de data y cusiosidedes enfocadas en el mundo de Data Analystic.
+
 💡 Siempre aprendiendo algo nuevo
+
 🎓 Estudié master Data Anlytic, donde adquirí conocimientos de:
+
 
     · Programación con Pyton
     · Bases de Datos y SQL
