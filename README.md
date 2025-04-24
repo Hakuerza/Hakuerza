@@ -18,7 +18,7 @@ Python, SQL, ETL, Tableau y Power BI.
 💡 Siempre aprendiendo algo nuevo
 🎓 Estudié master Data Anlytic, donde adquirí conocimientos de:
 
-· Programación con Pyton
+    · Programación con Pyton
     · Bases de Datos y SQL
     · Matemáticas y estadística
     · Visualización de Datos
@@ -32,6 +32,6 @@ Python, SQL, ETL, Tableau y Power BI.
 ✨ Proyecto Jupiter Mercadona
 
 📫 Contáctame: 
-     - LINKEDIN: www.linkedin.com/in/maríalucíaanalystics
-     - CORREO: lucia7522@gmail.com
+    - LINKEDIN: www.linkedin.com/in/maríalucíaanalystics
+    - CORREO: lucia7522@gmail.com
             
