@@ -1,5 +1,7 @@
 ¡Hola! 👋 Soy Lucía 🧠💻
+
 Bienvenido a mi perfil de GitHub. Soy Junior Data Analyst apasionada por los datos. Aquí encontrarás proyectos relacionados con:
+
 
 🛠️ Procesamiento de datos en tiempo real
 📊 ETL/ELT
