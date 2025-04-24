@@ -2,15 +2,13 @@
 
 Bienvenido a mi perfil de GitHub. Soy Junior Data Analyst apasionada por los datos. Aquí encontrarás proyectos relacionados con:
 
+
 🛠️ Procesamiento de datos en tiempo real
-
 📊 ETL/ELT
-
 🌐 Machine Learning
-
 🚀 Tecnologías que domino:
-
 Python, SQL, ETL, Tableau y Power BI.  
+
 
 🌟 Sobre mí:
 🎯 Actualmente en busca de un nuevo desafío que me permita seguir creciendo en el mundo de los datos.
