@@ -1,7 +1,5 @@
 ¡Hola! 👋 Soy Lucía 🧠💻
 Bienvenido a mi perfil de GitHub. Soy Junior Data Analyst apasionada por los datos. Aquí encontrarás proyectos relacionados con:
-
-
 🛠️ Procesamiento de datos en tiempo real
 📊 ETL/ELT
 🌐 Machine Learning
@@ -13,7 +11,8 @@ Python, SQL, ETL, Tableau y Power BI.
 🌍 Publicando en linkedin, logros, novedades de data y cusiosidedes enfocadas en el mundo de Data Analystic.
 💡 Siempre aprendiendo algo nuevo
 🎓 Estudié master Data Anlytic, donde adquirí conocimientos de:
-    · Programación con Pyton
+
+· Programación con Pyton
     · Bases de Datos y SQL
     · Matemáticas y estadística
     · Visualización de Datos
